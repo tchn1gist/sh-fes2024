@@ -46,6 +46,19 @@
 .span2 {
   color: var(--color-lightpink);
 }
+.span10 {
+  color: var(--color-white);
+  font-size: var(--font-size-5xl);
+}
+.span11 {
+  color: var(--color-lightblue);
+  font-size: var(--font-size-5xl);
+}
+
+.span12 {
+  color: var(--color-lightpink);
+  font-size: var(--font-size-5xl);
+}
 .shiori-24-sh-fes-container {
   position: absolute;
   height: 70.1%;
@@ -538,6 +551,10 @@
 .sh-fes1 {
   position: relative;
 }
+
+.headed {
+  height: 150px;
+}
 .icon2 {
   width: 111.1px;
   height: 106.4px;
@@ -580,7 +597,7 @@
   color: var(--color-black);
   font-family: var(--font-m-plus-2);
 
-    min-height: 640vh;
+    min-height: 680vh;
 }
 
 
